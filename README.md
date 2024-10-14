@@ -5,7 +5,7 @@
 
 🔬 &nbsp;I am a PhD researcher in the field of hyperspectral imaging, currently focusing on **hyperspectral unmixing** and **spectral variability**, at the University of Antwerp.\
 🎓 &nbsp;I graduated as a Mathematical Engineer from KU Leuven in 2024, with a focus on statistics, data science and optimization theory.\
-✉️ &nbsp;You can contact me via xander.haijen@uantwerpen.be! I'll try to answer as soon as I can.\
+✉️ &nbsp;You can contact me via xander.haijen@uantwerpen.be! I'll try to answer as soon as I can.
 
 ### 🛠 &nbsp; Programming experience
 
